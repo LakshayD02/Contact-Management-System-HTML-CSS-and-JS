@@ -35,5 +35,5 @@ This Contact Management System provides an intuitive and responsive interface fo
 * **Small Businesses:**  Keeping track of customer or client information. 🏢
 
 * **Students:**  Learning about front-end web development and data manipulation with JavaScript. 🧑‍🎓
-*
+  
 *  **Anyone:**  Who needs a simple and effective way to manage contacts. 🌍
